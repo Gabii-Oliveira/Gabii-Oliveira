@@ -12,7 +12,7 @@
 </div>
  
  <br>
-
+ <img align="right" alt="anime" height="150" style="border-radius:50px;" src= <img align="right" alt="anime" height="150" style="border-radius:50px;" src="https://viacarreira.com/wp-content/uploads/2015/09/apresentacao-de-tcc-15-dicas-uteis-para-voce-arrasar-10.gif">">
  
 <div> 
   
@@ -20,6 +20,6 @@
  <a href="https://discord.com/invite/7TYxs5SbBF" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 
  
-  ![Snake animation](https://github.com/Gabii-Oliveira/Gabii-Oliveira/blob/output/github-contribution-grid-snake.svg)
+<!--   ![Snake animation](https://github.com/Gabii-Oliveira/Gabii-Oliveira/blob/output/github-contribution-grid-snake.svg) -->
 
 </div>
