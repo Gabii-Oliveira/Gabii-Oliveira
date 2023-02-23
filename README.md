@@ -12,7 +12,7 @@
 </div>
  
  <br>
- <img align="right" alt="anime" height="150" style="border-radius:50px;" src= <img align="right" alt="anime" height="150" style="border-radius:50px;" src="https://viacarreira.com/wp-content/uploads/2015/09/apresentacao-de-tcc-15-dicas-uteis-para-voce-arrasar-10.gif">
+ <img align="right" alt="anime" height="150" style="border-radius:50px;" src= <img align="right" alt="anime" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif">
  
 <div> 
   
