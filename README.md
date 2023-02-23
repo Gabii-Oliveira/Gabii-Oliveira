@@ -10,7 +10,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
- <img align="right" alt="anime" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/8d/a5/69/8da569645389bd8f8b38e0b3af277cb1.gif">
+ <img align="right" alt="anime" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/26/1f/db/261fdbdd9daff46c9771c09e8592d6e2.gif">
  
 </div>
  
